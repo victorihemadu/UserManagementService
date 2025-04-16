@@ -83,5 +83,3 @@ The API documentation is available at:
 
 http://localhost:8080/swagger-ui.html
 http://localhost:8080/api-docs
-
-Fg
